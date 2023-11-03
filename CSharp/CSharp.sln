@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp", "CSharp.csproj", "{C5D74C97-CE64-41AC-B924-4CBD14C6B704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpUnitTests", "..\CSharpUnitTests\CSharpUnitTests.csproj", "{FBC6576B-1ABB-4ACA-B629-510A93FA3B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D74C97-CE64-41AC-B924-4CBD14C6B704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D74C97-CE64-41AC-B924-4CBD14C6B704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D74C97-CE64-41AC-B924-4CBD14C6B704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D74C97-CE64-41AC-B924-4CBD14C6B704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC6576B-1ABB-4ACA-B629-510A93FA3B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC6576B-1ABB-4ACA-B629-510A93FA3B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC6576B-1ABB-4ACA-B629-510A93FA3B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC6576B-1ABB-4ACA-B629-510A93FA3B61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE19A0DD-87FC-4BA3-9E27-96DCD98A4F98}
+	EndGlobalSection
+EndGlobal
