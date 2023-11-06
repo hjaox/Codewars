@@ -10,6 +10,7 @@ namespace CSharpUnitTests
         {
             Assert.That(IsItANumber.IsDigit("s2324"), Is.EqualTo(false));
             Assert.That(IsItANumber.IsDigit("-234.4"), Is.EqualTo(true));
+
         }
     }
 }
