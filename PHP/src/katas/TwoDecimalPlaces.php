@@ -20,5 +20,3 @@ final class TwoDecimalPlaces {
 
   }
 }
-
-$test = "test";
