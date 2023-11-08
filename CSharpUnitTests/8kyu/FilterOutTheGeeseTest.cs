@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using CSharp;
 using NUnit.Framework.Interfaces;
 
-namespace CSharpUnitTests
+namespace CSharpUnitTests._8kyu
 {
     [TestFixture]
     public class FilterOutTheGeeseTest

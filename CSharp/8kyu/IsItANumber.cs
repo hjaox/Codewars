@@ -22,7 +22,7 @@ isDigit("3 5")
 isDigit("zero")
 */
 
-namespace CSharp
+namespace CSharp._8kyu
 {
     public class IsItANumber
     {

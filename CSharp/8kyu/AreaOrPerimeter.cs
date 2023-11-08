@@ -18,7 +18,7 @@ Note: for the purposes of this kata you will assume that it is a square if its l
 */
 
 
-namespace CSharp
+namespace CSharp._8kyu
 {
     public class AreaOrPerimeter
     {

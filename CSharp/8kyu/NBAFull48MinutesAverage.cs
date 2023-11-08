@@ -22,7 +22,7 @@ All inputs will be either be an integer or float.
 Follow your dreams!
 */
 
-namespace CSharp
+namespace CSharp._8kyu
 {
     public class NBAFull48MinutesAverage
     {
