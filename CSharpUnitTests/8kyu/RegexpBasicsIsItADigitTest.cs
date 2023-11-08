@@ -3,7 +3,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using CSharp;
 
-namespace CSharpUnitTests
+namespace CSharpUnitTests._8kyu
 {
     [TestFixture]
     public class RegexpBasicsIsItADigitTest

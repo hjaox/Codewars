@@ -10,8 +10,6 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Regex.IsMatch("" , @"^[0-9]$"));
-            Console.ReadLine();
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpUnitTests
+namespace CSharpUnitTests._8kyu
 {
     [TestFixture]
     public class NBAFull48MinutesAverageTest

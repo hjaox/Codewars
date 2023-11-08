@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CSharp;
 
-namespace CSharpUnitTests
+namespace CSharpUnitTests._8kyu
 {
     [TestFixture]
     public class ThinkfulNumberDrillsBlueAndRedMarblesTest
