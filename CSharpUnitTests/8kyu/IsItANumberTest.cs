@@ -1,4 +1,4 @@
-using CSharp;
+using CSharp._8kyu;
 
 namespace CSharpUnitTests._8kyu
 {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 using System.Text.RegularExpressions;
-using CSharp;
+using CSharp._8kyu;
 
 namespace CSharpUnitTests._8kyu
 {

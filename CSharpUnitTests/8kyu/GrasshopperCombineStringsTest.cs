@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CSharp._8kyu;
+using NUnit.Framework.Legacy;
 
 namespace CSharpUnitTests._8kyu
 {
     [TestFixture]
-    public class AreaOrPerimeterTest
+    public class GrasshopperCombineStringsTest
     {
         [Test]
-        public void BasicTests()
+        public void BasicTest()
         {
-            ClassicAssert.AreEqual(AreaOrPerimeter.AreaOrPerimeterFunc(4,4), 16);
-            ClassicAssert.AreEqual(AreaOrPerimeter.AreaOrPerimeterFunc(6, 10), 32);
+            ClassicAssert.AreEqual("James Stevens", GrasshopperCombineStrings.CombineNames("James", "Stevens"));
         }
     }
 }

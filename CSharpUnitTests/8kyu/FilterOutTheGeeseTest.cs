@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-using CSharp;
+using CSharp._8kyu;
 using NUnit.Framework.Interfaces;
 
 namespace CSharpUnitTests._8kyu
