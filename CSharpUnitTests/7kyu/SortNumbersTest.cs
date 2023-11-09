@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CSharp._8kyu;
+using CSharp._7kyu;
 
-namespace CSharpUnitTests._8kyu
+namespace CSharpUnitTests._7kyu
 {
     [TestFixture]
     public class SortNumbersTest

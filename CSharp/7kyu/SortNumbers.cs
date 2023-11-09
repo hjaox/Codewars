@@ -16,7 +16,7 @@ SortNumbers(new int[] { 1, 2, 10, 50, 5 }); // should return new int[] { 1, 2, 5
 SortNumbers(null); // should return new int[] { }
 */
 
-namespace CSharp._8kyu
+namespace CSharp._7kyu
 {
     public class SortNumbers
     {
