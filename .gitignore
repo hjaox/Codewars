@@ -365,3 +365,5 @@ FodyWeavers.xsd
 #hjao
 #PHP
 vendor
+#Csharp
+.vscode/
