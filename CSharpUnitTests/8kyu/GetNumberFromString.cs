@@ -3,7 +3,7 @@ using CSharp._8kyu;
 namespace CSharpUnitTests._8kyu;
 
 [TestFixture]
-public class GetNimberFromStringTest
+public class GetNumberFromStringTest
 {
     [Test]
     public void BasicTests()
