@@ -10,7 +10,7 @@ namespace CSharp._8kyu
     {
         public static string PrintArray(object[] array)
         {
-            return string.Join(",", array);
+            return string.Join(",", array.Select(item => item is Object[]? PrintArray(item as object[]) : item));
         }
     }
 }
